@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h> 
 /*
- * Light up a strip of WS2811 LEDs when a switch is activated, slowly increasing their brightness. When the switch is deactivated the light shuts down.
+ * Light up a strip of WS2812 LEDs when a switch is activated, slowly increasing their brightness. When the switch is deactivated the light shuts down.
  * 
  * This was used as a "Pandora Box" prop for a drama class play: when the pandora box is open it lits up from the inside, when the box is closed the lights are shut down to save battery.
  * 

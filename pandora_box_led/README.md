@@ -28,7 +28,7 @@ The assembly is quite simple, just follow the breadboard design:
 
 The only complicated part is on the connectivity to the ATtiny85: the LED strip "data in" (DI) pin must be connected to pin PB4 on the microcontroller, while the momentary switch should be tied to pin PB0.
 
-If you want to move beyond the breadboard (we used a protoboard for the permanent prop) you can find a [fritzing project](https://github.com/llmora/electronics/raw/master/pandora_box_led/pandora_box_led.fzz.fzz) in the repository to help you design your PCB.
+If you want to move beyond the breadboard (we used a protoboard for the permanent prop) you can find a [fritzing project](pandora_box_led.fzz) in the repository to help you design your PCB.
 
 Uploading the code
 ------------------
